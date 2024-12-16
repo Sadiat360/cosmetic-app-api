@@ -1,0 +1,21 @@
+[
+    {
+    "id": "cd3d0df6-3135-4d2f-89fc-2351b774b6b1",
+    "image": "orimore-1.png",
+    "brand": "Orimore Toner",
+    "price": "$40"
+    },
+    {
+    "id": "b27a60c7-cdd8-47e1-9d13-3d8aa8f7c295",
+    "image": "orimore-2.png",
+    "brand": "Orimore Wash",
+    "price": "$70"
+    },
+    {
+    "id": "e03a1c8b-846d-4f38-a3f5-cf9ae2a7e22e",
+    "description": "A product that makes your face glow",
+    "image": "orimore-3.png",
+    "brand": "Orimore Primer",
+    "price": "$50"
+    }
+]
