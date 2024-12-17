@@ -1,0 +1,52 @@
+[
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "image": "product-1.jpg",
+        "likes": "320",
+        "name":  "Lip Gloss",
+        "price": "$30.15",
+        "description": "hydrate + protect"
+       
+  },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "image": "product-2.jpg",
+      "likes": "320",
+      "name":  "Lip Gloss",
+      "price": "$50.15",
+      "description": "hydrate + protect"
+  },
+    {
+      "id": "9f14e390-bc2b-11ec-8422-0242ac120002",
+      "image": "product-3.jpg",
+      "likes": "320",
+      "name":  "Lip Gloss",
+      "price": "$30.15",
+      "description": "hydrate + protect"
+  },
+    {
+      "id": "7c9e6679-7425-40de-944b-e07fc1f90ae7",
+      "image": "product-4.jpg",
+      "likes": "120",
+      "name":  "Lip Gloss",
+      "price": "$30.15",
+      "description": "moisturise + protect"
+  },
+    {
+      "id": "6f1a1a29-1dc9-43fc-8ea1-1e72577a1e90",
+      "image": "product-5.jpg",
+      "likes": "410",
+      "name":  "Lip Gloss",
+      "price": "$40",
+      "description": "flawless + skin"
+  },
+    {
+      "id": "2b1f5c98-70d5-48a0-9b2f-3a41b5b839c8",
+      "image": "product-6.jpg",
+      "likes": "220",
+      "name":  "Lip Gloss",
+      "price": "$60",
+      "description": "glow + bright"
+  }
+    
+]

@@ -1,6 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import productRoutes from './routes/productRoutes.js';
+import SkinCareRoutes from './routes/skinCareRoutes.js';
 
 
 const app = express();
@@ -13,6 +14,7 @@ app.use(express.static('public'));
 //Routes
 
 app.use('/products', productRoutes );
+app.use('/skin', SkinCareRoutes )
 
 
 
